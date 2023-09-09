@@ -10,3 +10,6 @@
 [submodule "design"]
 	path = design
 	url = https://github.com/Parushii/design.git
+[submodule "deployed-sites"]
+	path = deployed-sites
+	url = https://github.com/Parushii/deployed-sites.git
