@@ -7,3 +7,6 @@
 [submodule "Task4"]
 	path = Task4
 	url = https://github.com/Parushii/Task4.git
+[submodule "design"]
+	path = design
+	url = https://github.com/Parushii/design.git
